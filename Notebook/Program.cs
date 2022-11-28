@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace Notebook
 {
     class Program
@@ -7,11 +8,12 @@ namespace Notebook
         
         static void Main(string[] args)
         {
-            var notebook = new Notebook();
-            notebook.Start();
+       
+        var notebook = new Notebook();
+        notebook.Start();
 
 
 
-        }
+    }
     }
 }

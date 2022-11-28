@@ -11,7 +11,7 @@ namespace Notebook
         public string Name { get; set; }
         public string Surname { get; set; }
 
-       
+        public int UserID { get; set; }
 
 
     }
